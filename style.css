@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+body{
+    background-color: #0A0C1C;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    width: 1440px;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    margin: 0px auto;
+}
+.box{
+    width: 1110px;
+    height: 446px;
+    display: flex;
+    align-items: center;
+    margin-left: 165px;
+    border-radius: 8px;
+    justify-content: space-between;
+}
+.fil{
+    width: 424px;
+    height: 316px;
+    margin-left: 72px;
+}
+span{
+    color: #AB5CDB;
+}
+.h1{
+    width: 403px;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+}
+.divbox{
+    width: 374px;
+    margin-top: 25px;
+    color: #d2d2d2;
+    font-family: "Inter", sans-serif;
+}
+.ul{
+    margin-top: 5px;
+}
+.navigation{
+    width: 348px;
+    height: 56px;
+    display: flex;
+    margin-top: 72px;
+}
+.box1{
+    width: 83px;
+    height: 56px;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+}
+.tim{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8e8e8e;
+}
+.box2{
+    width: 83px;
+    height: 56px;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    margin-left: 63px;
+    font-size: 14px;
+}
+.tim1{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8e8e8e;
+}
+.box3{
+    width: 83px;
+    height: 56px;
+    color: #FFFFFF;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    margin-left: 63px;
+}
+.tim2{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    color: #8e8e8e;
+}
